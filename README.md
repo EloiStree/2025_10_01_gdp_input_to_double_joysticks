@@ -1,2 +1,3 @@
-# 2025_10_01_gdp_input_to_double_joysticks
+# Input To Double Joysticks
+
 Just a parse of Input Action and Input name to double Vector2 joysticks.
